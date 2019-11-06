@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5 {
 
 .logo {
 	display: inline-block;
-	margin-top: 60px;
+	margin-top: 40px;
 	margin-left: 80px;
 	box-sizing: border-box;
 }
@@ -102,6 +102,7 @@ h1 {
 	text-align: center;
 	width: 50%;
 	margin-top: 60px;
+	margin-bottom: 20px;
 }
 
 .features{
@@ -153,4 +154,8 @@ h6{
 	display: block;
 	margin-top: 30px;
 	margin-left: 50%;
+}
+
+.vision p{
+	margin-bottom: 15px;
 }
